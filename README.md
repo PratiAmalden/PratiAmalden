@@ -2,7 +2,8 @@
 
 <h2 align="center">🌱 Currently</h2>
 <p align="center">
-  - Building <b>Rails projects</b> 🚀<br>
+  - Building an <b>AI Concierge</b> project 🤖<br>
+  - Maintaining and improving <b>Recommendation Tracker</b> 🔧<br>
   - Learning more about <b>System Design</b> 🏗️<br>
 </p>
 
